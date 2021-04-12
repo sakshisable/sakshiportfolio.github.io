@@ -1,0 +1,16 @@
+
+body {
+    margin: 50px;
+    background-image: url("shootingstar.gif");
+    height: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-family: poppins, sans-serif;
+}
+h1 {
+    padding: 10%;
+    color: aliceblue;
+    text-align: center;
+    font-size: 100px;
+}

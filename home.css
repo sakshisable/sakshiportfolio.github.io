@@ -1,0 +1,78 @@
+.color {
+	background-color: #00ffff;
+	height:50vh;
+}
+* {
+	font-family: poppins, sans-serif;
+}
+#projects {
+	padding: 80px;
+
+}
+body {
+	margin: 80px;
+	background-color: rgba(255,255,255,0.4);
+
+}
+.about{
+	margin: 60px;
+	padding: auto;
+	text-align:center;
+}
+.activity {
+	padding:60px;
+	text-align:start;
+}
+#contact {
+	margin: 0px;
+	padding: 0px;
+}
+
+.global {
+	padding: 20px;
+	color: black;
+	margin-top: 60px;
+}
+
+.global .curve {
+	position: absolute;
+	padding: 30px;
+}
+.global .social{
+	width:100%;
+	margin: 0 auto;
+	text-align: center;
+	padding:40px;
+	padding-bottom:0px;
+	border-top: 1px solid #808080;
+	margin-top: 50px;
+
+}
+.global .social a{
+	font-size: 22px;
+	width:45px;
+	height: 45px;
+	line-height: 39px;
+	display: inline-block;
+	border-radius: 50%;
+	border:2px solid #05ff05;
+	box-shadow: 0px 0px 0px 1px rgba(255,255,255,0.4);
+	margin:10px;
+	padding:7px;
+	color: #fc57d0;
+	opacity: 0.5;
+	transition: 0.3s ease-in-out;
+
+}
+.global .social a:hover{
+	opacity:0.9;
+	box-shadow: 3px 3px 5px 3px rgba(255,255,255,0.9);
+}
+.global .copyright{
+	text-align: center;
+	padding-top: 24px;
+	font-weight:500;
+	opacity: 0.8;
+	font-size:16px;
+
+}
